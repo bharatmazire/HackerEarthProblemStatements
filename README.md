@@ -1,2 +1,3 @@
-# HackerEarthProblemStatements
-This repository contains,(some) solved problem statements from HackerEarth.com. 
+# Hacker Earth
+
+This repository contains, solutions of (some) problem statements from HackerEarth.com
