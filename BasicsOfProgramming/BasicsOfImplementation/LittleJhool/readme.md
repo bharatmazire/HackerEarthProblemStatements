@@ -17,3 +17,6 @@ You need to print "Good luck!" (Without quotes, and WITH exclamation mark!) if t
 Constraints:
 
 The binary number will be in string format, with the maximum length being  characters.
+
+
+https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/psychic-powers/
