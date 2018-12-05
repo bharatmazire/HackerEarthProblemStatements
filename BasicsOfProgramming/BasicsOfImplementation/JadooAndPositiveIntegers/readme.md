@@ -1,4 +1,4 @@
-adoo has been given a set of integers by his teacher. His assignment is to print the sum of all the Positive Integers among them. But Jadoo, being lazy, decides to write the program with the shortest source code. Can you help him?
+jadoo has been given a set of integers by his teacher. His assignment is to print the sum of all the Positive Integers among them. But Jadoo, being lazy, decides to write the program with the shortest source code. Can you help him?
 
 INPUT
 
